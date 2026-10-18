@@ -1,5 +1,5 @@
 /* RDR2 на 100% — офлайн-кэш. При обновлении файлов поменяйте номер версии. */
-const VERSION = "rdr2-100-v1";
+const VERSION = "rdr2-100-v2";
 const FONTS = "rdr2-100-fonts";
 const SHELL = [
   "./",
